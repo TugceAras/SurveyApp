@@ -1,7 +1,7 @@
 
 # <p align="center"> Survey App 📄 </p>
 
-- This is the second homework given by UpSchool.
+- This is the third homework given by UpSchool.
 <br>
 
 <!-- Screenshots -->
