@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">SurveyApp_ThirdHomework</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name_and_surname">name and surname</string>
+    <string name="next">Next</string>
+    <string name="_3_can_you_write_a_movie_you_like">3) Can you write a movie you like?</string>
+    <string name="_2_can_you_write_a_song_you_like">2) Can you write a song you like?</string>
+    <string name="_1_can_you_write_the_name_of_a_book_you_like">1) Can you write the name of a book you like?</string>
+    <string name="questions">Questions</string>
+    <string name="results">Results</string>
+    <string name="mail">Mail :</string>
+    <string name="mail_info">Mail</string>
+    <string name="aras_tugcee_gmail_com">aras.tugcee@gmail.com</string>
+    <string name="welcome">Welcome!</string>
+    <string name="phone_number">Phone number</string>
+    <string name="phone_number_result">Phone number :</string>
+    <string name="city">City</string>
+    <string name="city_result">City :</string>
+    <string name="name_surname">Name/Surname :</string>
+    <string name="tugce_aras">Tugce Aras</string>
+    <string name="_555_555_55_55">555 555 55 55</string>
+    <string name="istanbul">Istanbul</string>
+    <string name="book_name">Book Name :</string>
+    <string name="eker_portakal">Şeker Portakalı</string>
+    <string name="song_name">Song Name :</string>
+    <string name="lose_yourself">Lose Yourself</string>
+    <string name="movie_name">Movie Name :</string>
+    <string name="in_time">In Time</string>
+    <string name="home_page">Home Page</string>
+</resources>
